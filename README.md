@@ -2,7 +2,7 @@
 
 A simple flappy bird game developed by java.
 
-Running Instruction:
+Running Instructions:
 
 1. Import project to your eclipse IDE
 2. Run FlapptBird.java
